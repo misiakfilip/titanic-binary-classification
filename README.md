@@ -27,9 +27,7 @@ How to Run
 git clone https://github.com/misiakfilip/titanic-binary-classification.git
 2. Install dependencies:
 pip install -r requirements.txt
-3. Install en_core_web:
-  python -m spacy download en_core_web_md
-4. Open the Jupyter notebook or Python file:
+3. Open the Jupyter notebook or Python file:
 
 ### Option 2: Run on Google Colab
 Click the link below to open the notebook directly in Google Colab:
