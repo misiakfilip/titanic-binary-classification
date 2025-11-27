@@ -5,8 +5,7 @@ The aim of this project is to perform data analysis and binary classification of
 
 # Repository Contents
 - notebooks/ – folder containing the Jupyter Notebook with the full analysis and classification code.
-- data/ – folder with dataset files (train.csv, test.csv).
-- reports/ – folder containing the project report in PDF format (Titanic_Report.pdf).
+- reports/ – folder containing the project report in PDF format (titanic-binary-classification-report.pdf).
 - src/ - folder containing the project python file.
 - requirements.txt – list of libraries required to run the project.
 - README.md – this file, providing project description and instructions.
