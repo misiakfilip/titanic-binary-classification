@@ -1,10 +1,11 @@
 # titanic-binary-classification
-Titanic Binary Classification Project  
+
+# Titanic Binary Classification Project  
 This project demonstrates a binary classification task using the Titanic dataset.
 
 The aim of this project is to perform data analysis and binary classification of Titanic passengers based on their survival (Survived). The project includes data exploration, feature preparation, model selection, and performance evaluation.
 
-Repository Contents
+# Repository Contents
 - notebooks/ – folder containing the Jupyter Notebook with the full analysis and classification code.
 - data/ – folder with dataset files (train.csv, test.csv).
 - reports/ – folder containing the project report in PDF format (Titanic_Report.pdf).
@@ -12,7 +13,7 @@ Repository Contents
 - requirements.txt – list of libraries required to run the project.
 - README.md – this file, providing project description and instructions.
 
-Technologies and Libraries
+# Technologies and Libraries
 The project was developed in Python using the following libraries:
 - pandas – data manipulation
 - numpy – numerical operations
@@ -20,7 +21,7 @@ The project was developed in Python using the following libraries:
 - scikit-learn – classification, model evaluation, feature processing
 - jupyter – notebook environment
 
-How to Run
+# How to Run
 
 ### Option 1: Run locally
 1. Clone the repository:
